@@ -1,0 +1,23 @@
+{
+    "name": "quiec/deasciifier",
+    "description": "Deniz Yüret's Turkish deasciifier in PHP.",
+    "keywords": ["turkish", "nlp"],
+    "minimum-stability": "stable",
+    "authors": [
+      {
+        "name": "Yusuf Usta",
+        "email": "yusuf@quiec.tech",
+        "homepage": "https://github.com/quiec"
+      }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DeAsciifier\\": "src/DeAsciifier/"
+        }
+    },
+    "support": {
+      "issues": "https://github.com/quiec/DeAsciifier/issues",
+      "source": "https://github.com/quiec/DeAsciifier"
+    },
+    "license": "MIT"
+}
